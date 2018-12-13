@@ -1,5 +1,5 @@
 # nw_lifeIV
-Fixed Collision and Unlocked doors for LifeInvader HQ
+Fixed Collision and Unlocked doors for LifeInvader HQ (includes the Conf room)
 
 Install:
 
